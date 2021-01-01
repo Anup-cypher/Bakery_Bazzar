@@ -1,0 +1,23 @@
+{
+  "name": "bakery_bazzar",
+  "version": "1.0.0",
+  "description": "This app belongs to Bakery Bazzar.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anup-cypher/Bakery_Bazzar.git"
+  },
+  "author": "Anup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anup-cypher/Bakery_Bazzar/issues"
+  },
+  "homepage": "https://github.com/Anup-cypher/Bakery_Bazzar#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
